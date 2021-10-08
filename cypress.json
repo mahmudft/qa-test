@@ -1,0 +1,13 @@
+{
+    "env": {
+        "username": "testme@gmail.com",
+        "password": "password5279"
+    },
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "html": true,
+        "charts": true,
+        "json": false,
+        "reportDir": "cypress/reports"
+    }
+}
